@@ -12,10 +12,15 @@ Date | Title | Status | Link
 18-07-2020 | Translating RNA into Protein | Completed | http://rosalind.info/problems/prot/
 19-07-2020 | Calculating Protein Mass | Completed | http://rosalind.info/problems/prtm/
 19-07-2020 | Mendel's First Law | Pending | http://rosalind.info/problems/iprb/
-19-07-2020 | Finding a Motif in DNA | Pending | http://rosalind.info/problems/subs/
+19-07-2020 | Finding a Motif in DNA | Completed | http://rosalind.info/problems/subs/
 19-07-2020 | Enumerating Gene Orders | Pending | http://rosalind.info/problems/perm/ 
 19-07-2020 | Fibonnacci Numbers | Completed | http://rosalind.info/problems/fibo/
+19-07-2020 | Introduction to the Bioinformatics Armory | Completed | http://rosalind.info/problems/ini/
 
+### Ressources
+
+- Rosalind: 
+- Python Fiddle: http://pythonfiddle.com/
 
 
 
