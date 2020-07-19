@@ -10,4 +10,6 @@ Date | Title | Status | Link
 18-07-2020 | Complementing a Strand of DNA | Completed | http://rosalind.info/problems/revc/
 18-07-2020 | Counting Point Mutations | Completed | http://rosalind.info/problems/hamm/
 18-07-2020 | Translating RNA into Protein | Completed | http://rosalind.info/problems/prot/
+19-07-2020 | Calculating Protein Mass | Completed | http://rosalind.info/problems/prtm/
+
 
