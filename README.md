@@ -1,7 +1,12 @@
 ### Rosalind-Solutions
 This repository is my solutions to DNA sequencing problems on ROSALIND.
 
-### Solutions
+### Python Village Solutions
+
+Date | Title | Status | Link
+--- | --- | --- | --- |
+
+### Bioinformatics Stronghold Solutions
 
 Date | Title | Status | Link
 --- | --- | --- | --- |
@@ -11,15 +16,31 @@ Date | Title | Status | Link
 18-07-2020 | Counting Point Mutations | Completed | http://rosalind.info/problems/hamm/
 18-07-2020 | Translating RNA into Protein | Completed | http://rosalind.info/problems/prot/
 19-07-2020 | Calculating Protein Mass | Completed | http://rosalind.info/problems/prtm/
-19-07-2020 | Mendel's First Law | Pending | http://rosalind.info/problems/iprb/
 19-07-2020 | Finding a Motif in DNA | Completed | http://rosalind.info/problems/subs/
+19-07-2020 | Mendel's First Law | Pending | http://rosalind.info/problems/iprb/
 19-07-2020 | Enumerating Gene Orders | Pending | http://rosalind.info/problems/perm/ 
-19-07-2020 | Fibonnacci Numbers | Completed | http://rosalind.info/problems/fibo/
+
+### Bioinformatics Armory Solutions
+
+Date | Title | Status | Link
+--- | --- | --- | --- |
 19-07-2020 | Introduction to the Bioinformatics Armory | Completed | http://rosalind.info/problems/ini/
+
+### Bioinformatics Textbook Track Solutions
+
+Date | Title | Status | Link
+--- | --- | --- | --- |
+
+### Algorithmic Heights Solutions
+
+Date | Title | Status | Link
+--- | --- | --- | --- |
+19-07-2020 | Fibonnacci Numbers | Completed | http://rosalind.info/problems/fibo/
+19-07-2020 | Insertion Sort | Pending | http://rosalind.info/problems/ins/
 
 ### Ressources
 
-- Rosalind: 
+- Rosalind: http://rosalind.info/
 - Python Fiddle: http://pythonfiddle.com/
 
 
