@@ -9,9 +9,8 @@ Date | Title | Status | Link
 25-07-2020 | Variables and Some Arithmetic | Completed | http://rosalind.info/problems/ini2/
 25-07-2020 | Strings and Lists | Completed | http://rosalind.info/problems/ini3/ 
 25-07-2020 | Conditions and Loops | Completed|  http://rosalind.info/problems/ini4/
-25-07-2020 | Working with Files | Pending |  http://rosalind.info/problems/ini5/
+25-07-2020 | Working with Files | Completed|  http://rosalind.info/problems/ini5/
 25-07-2020 | Dictionaries | Completed |  http://rosalind.info/problems/ini6/
-
 
 ### Bioinformatics Stronghold Solutions
 
@@ -28,8 +27,6 @@ Date | Title | Status | Link
 19-07-2020 | Enumerating Gene Orders | Pending | http://rosalind.info/problems/perm/ 
 25-07-2020 | Rabbits and Recurrence Relations | Completed | http://rosalind.info/problems/fib/
 25-07-2020 | Mortal Fibonnacci Rabbits | Pending | http://rosalind.info/problems/fibd/
-
-
 
 ### Bioinformatics Armory Solutions
 
