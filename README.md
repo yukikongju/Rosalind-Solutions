@@ -20,6 +20,8 @@ Date | Title | Status | Link
 19-07-2020 | Mendel's First Law | Pending | http://rosalind.info/problems/iprb/
 19-07-2020 | Enumerating Gene Orders | Pending | http://rosalind.info/problems/perm/ 
 25-07-2020 | Rabbits and Recurrence Relations | http://rosalind.info/problems/fib/
+25-07-2020 | Mortal Fibonnacci Rabbits | http://rosalind.info/problems/fibd/
+
 
 
 ### Bioinformatics Armory Solutions
