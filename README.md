@@ -27,6 +27,7 @@ Date | Title | Status | Link
 19-07-2020 | Enumerating Gene Orders | Pending | http://rosalind.info/problems/perm/ 
 25-07-2020 | Rabbits and Recurrence Relations | Completed | http://rosalind.info/problems/fib/
 25-07-2020 | Mortal Fibonnacci Rabbits | Pending | http://rosalind.info/problems/fibd/
+26-07-2020 | Inferring mRNA from Protein | Completed | http://rosalind.info/problems/mrna/
 
 ### Bioinformatics Armory Solutions
 
