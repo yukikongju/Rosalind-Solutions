@@ -19,8 +19,8 @@ Date | Title | Status | Link
 19-07-2020 | Finding a Motif in DNA | Completed | http://rosalind.info/problems/subs/
 19-07-2020 | Mendel's First Law | Pending | http://rosalind.info/problems/iprb/
 19-07-2020 | Enumerating Gene Orders | Pending | http://rosalind.info/problems/perm/ 
-25-07-2020 | Rabbits and Recurrence Relations | http://rosalind.info/problems/fib/
-25-07-2020 | Mortal Fibonnacci Rabbits | http://rosalind.info/problems/fibd/
+25-07-2020 | Rabbits and Recurrence Relations | Completed | http://rosalind.info/problems/fib/
+25-07-2020 | Mortal Fibonnacci Rabbits | Pending | http://rosalind.info/problems/fibd/
 
 
 
