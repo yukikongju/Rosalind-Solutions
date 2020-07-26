@@ -30,6 +30,7 @@ Date | Title | Status | Link
 26-07-2020 | Inferring mRNA from Protein | Completed | http://rosalind.info/problems/mrna/
 26-07-2020 | RNA Splicing | Pending | http://rosalind.info/problems/splc/
 26-07-2020 | Transitions and Transversions | Pending | http://rosalind.info/problems/tran/
+26-07-2020 | Calculating Expected Offspring | Completed | http://rosalind.info/problems/iev/
 
 ### Bioinformatics Armory Solutions
 
