@@ -5,6 +5,8 @@ This repository is my solutions to DNA sequencing problems on ROSALIND.
 
 Date | Title | Status | Link
 --- | --- | --- | --- |
+25-07-2020 | Installing Python | Completed | http://rosalind.info/problems/ini1/
+25-07-2020 | Variables and Some Arithmetic | Completed | http://rosalind.info/problems/ini2/
 
 ### Bioinformatics Stronghold Solutions
 
