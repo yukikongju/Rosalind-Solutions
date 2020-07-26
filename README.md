@@ -32,6 +32,7 @@ Date | Title | Status | Link
 26-07-2020 | Transitions and Transversions | Pending | http://rosalind.info/problems/tran/
 26-07-2020 | Calculating Expected Offspring | Completed | http://rosalind.info/problems/iev/
 26-07-2020 | Partial Permutations| Completed | http://rosalind.info/problems/pper/
+26-07-2020 | Enumerating k-mers Lexicographically | Completed | http://rosalind.info/problems/lexf/
 
 
 ### Bioinformatics Armory Solutions
