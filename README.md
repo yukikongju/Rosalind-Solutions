@@ -7,6 +7,9 @@ Date | Title | Status | Link
 --- | --- | --- | --- |
 25-07-2020 | Installing Python | Completed | http://rosalind.info/problems/ini1/
 25-07-2020 | Variables and Some Arithmetic | Completed | http://rosalind.info/problems/ini2/
+25-07-2020 | Strings and Lists | Completed | http://rosalind.info/problems/ini3/ 
+25-07-2020 | Conditions and Loops | Pending |  http://rosalind.info/problems/ini4/
+
 
 ### Bioinformatics Stronghold Solutions
 
