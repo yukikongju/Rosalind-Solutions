@@ -47,6 +47,7 @@ Date | Title | Status | Link
 Date | Title | Status | Link
 --- | --- | --- | --- |
 28-07-2020 | Find All Occurrences of a Pattern in a String | Completed | http://rosalind.info/problems/ba1d/
+28-07-2020 | Compute the Hamming Distance Between Two Strings | Completed | http://rosalind.info/problems/ba1g/
 
 ### Algorithmic Heights Solutions
 
