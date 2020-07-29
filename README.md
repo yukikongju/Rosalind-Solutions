@@ -46,6 +46,7 @@ Date | Title | Status | Link
 
 Date | Title | Status | Link
 --- | --- | --- | --- |
+28-07-2020 | Find All Occurrences of a Pattern in a String | Completed | http://rosalind.info/problems/ba1d/
 
 ### Algorithmic Heights Solutions
 
