@@ -50,8 +50,9 @@ Date | Title | Status | Link
 28-07-2020 | Compute the Hamming Distance Between Two Strings | Completed | http://rosalind.info/problems/ba1g/
 28-07-2020 | Find the Reverse Complement of a String | Completed | http://rosalind.info/problems/ba1c/
 28-07-2020 | Compute the Number of Times a Pattern Appears in a Text | Completed | http://rosalind.info/problems/ba1a/
-30-07-2020 | Find All Approximate Occurrences of a Pattern in a String
-| Completed | http://rosalind.info/problems/ba1h/
+30-07-2020 | Find All Approximate Occurrences of a Pattern in a String | Completed | http://rosalind.info/problems/ba1h/
+30-07-2020 | Translate an RNA String into an Amino Acid String | Completed | http://rosalind.info/problems/ba4a/
+
 
 
 ### Algorithmic Heights Solutions
