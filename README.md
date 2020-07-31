@@ -52,8 +52,7 @@ Date | Title | Status | Link
 28-07-2020 | Compute the Number of Times a Pattern Appears in a Text | Completed | http://rosalind.info/problems/ba1a/
 30-07-2020 | Find All Approximate Occurrences of a Pattern in a String | Completed | http://rosalind.info/problems/ba1h/
 30-07-2020 | Translate an RNA String into an Amino Acid String | Completed | http://rosalind.info/problems/ba4a/
-
-
+30-07-2020 | Reconstruct a String from its Genome Path | Completed | http://rosalind.info/problems/ba3b/
 
 ### Algorithmic Heights Solutions
 
