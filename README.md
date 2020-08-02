@@ -53,6 +53,7 @@ Date | Title | Status | Link
 30-07-2020 | Find All Approximate Occurrences of a Pattern in a String | Completed | http://rosalind.info/problems/ba1h/
 30-07-2020 | Translate an RNA String into an Amino Acid String | Completed | http://rosalind.info/problems/ba4a/
 30-07-2020 | Reconstruct a String from its Genome Path | Completed | http://rosalind.info/problems/ba3b/
+01-08-2020 | Find the Most Frequent Words in a String | Completed | http://rosalind.info/problems/ba1b/
 
 ### Algorithmic Heights Solutions
 
