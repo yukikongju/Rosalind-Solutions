@@ -36,6 +36,8 @@ Date | Title | Status | Link
 27-07-2020 | Computing GC Content | Completed | http://rosalind.info/problems/gc/
 20-08-2020 | Consensus and Profile | Pending | http://rosalind.info/problems/cons/
 20-08-2020 | Independent Alleles | Completed | http://rosalind.info/problems/lia/
+20-08-2020 | Open Reading Frames | Pending | http://rosalind.info/problems/orf/
+20-08-2020 | Finding a Shared Motif | Pending | http://rosalind.info/problems/lcsm/
 
 
 ### Bioinformatics Armory Solutions
