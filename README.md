@@ -65,6 +65,7 @@ Date | Title | Status | Link
 --- | --- | --- | --- |
 19-07-2020 | Fibonnacci Numbers | Completed | http://rosalind.info/problems/fibo/
 22-08-2020 | Insertion Sort | Completed | http://rosalind.info/problems/ins/
+22-08-2020 | Merge Two Sorted Arrays | Completed | http://rosalind.info/problems/mer/
 
 ### Ressources
 
