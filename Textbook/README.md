@@ -25,9 +25,9 @@
 - [O] (1I) Find the Most Frequent Words with Mismatches in a String [[link]](https://rosalind.info/problems/ba1i/) [[code]](/Chapter1/1I.py)
 - [ ] (1J) Find Frequent Words with Mismatches and Reverse Complements [[link]](https://rosalind.info/problems/ba1j/) [[code]](/Chapter1/1J.py)
 - [X] (1K) Generate the Frequency Array of a String [[link]](https://rosalind.info/problems/ba1k/) [[code]](/Chapter1/1K.py)
-- [o] (1L) Implement PATTERN TO NUMBER [[link]](https://rosalind.info/problems/ba1l/) [[code]](/Chapter1/1L.py)
+- [X] (1L) Implement PATTERN TO NUMBER [[link]](https://rosalind.info/problems/ba1l/) [[code]](/Chapter1/1L.py)
 - [ ] (1M) Implement NUMBER TO PATTERN [[link]](https://rosalind.info/problems/ba1m/) [[code]](/Chapter1/1M.py)
-- [ ] (1N) Generate the d-Neighborhood of a String [[link]](https://rosalind.info/problems/ba1n/) [[code]](/Chapter1/1N.py)
+- [X] (1N) Generate the d-Neighborhood of a String [[link]](https://rosalind.info/problems/ba1n/) [[code]](/Chapter1/1N.py)
 
 
 ## Chapter 2 - 

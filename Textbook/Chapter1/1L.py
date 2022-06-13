@@ -8,7 +8,7 @@
 def patternToNumber(pattern):
     if len(pattern) == 0:
         return 0
-    prefix = pattern[0:-1]
+    prefix = pattern[:-1]
     symbol = pattern[-1]        # last number
     return 4*patternToNumber(prefix) + symbolToNumber(symbol)
 
@@ -19,4 +19,9 @@ def symbolToNumber(symbol):
 
 if __name__ == "__main__":
     #  print(patternToNumber('GT'))
-    print(patternToNumber('AGT'))
+    #  print(patternToNumber('AGT'))
+    file = 'Textbook/Chapter1/data/rosalind_ba1l.txt'
+    with open(file, 'r') as f:
+        text = f.readline().strip()
+    print(patternToNumber(text))
+         
