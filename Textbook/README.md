@@ -40,7 +40,7 @@
 [[link]](https://rosalind.info/problems/ba2n/) [[code]](/Chapter2/2N.py)
 
 
-- [ ] (2A) Implement MOTIF ENUMERATION [[link]](https://rosalind.info/problems/ba2a/) [[code]](/Chapter2/2A.py)
+- [o] (2A) Implement MOTIF ENUMERATION [[link]](https://rosalind.info/problems/ba2a/) [[code]](/Chapter2/2A.py)
 - [ ] (2B) Find a Median String [[link]](https://rosalind.info/problems/ba2b/) [[code]](/Chapter2/2B.py)
 - [ ] (2C) Find a Profile-most Probable k-mer in a String 
 - [ ] (2D) Implement GREEDY M OTIF SEARCH 
